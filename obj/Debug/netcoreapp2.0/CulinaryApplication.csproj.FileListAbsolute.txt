@@ -1,0 +1,10 @@
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\bin\Debug\netcoreapp2.0\CulinaryApplication.deps.json
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\bin\Debug\netcoreapp2.0\CulinaryApplication.runtimeconfig.json
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\bin\Debug\netcoreapp2.0\CulinaryApplication.runtimeconfig.dev.json
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\bin\Debug\netcoreapp2.0\CulinaryApplication.dll
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\obj\Debug\netcoreapp2.0\CulinaryApplication.csproj.CoreCompileInputs.cache
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\obj\Debug\netcoreapp2.0\CulinaryApplication.AssemblyInfoInputs.cache
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\obj\Debug\netcoreapp2.0\CulinaryApplication.AssemblyInfo.cs
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\bin\Debug\netcoreapp2.0\CulinaryApplication.pdb
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\obj\Debug\netcoreapp2.0\CulinaryApplication.dll
+C:\Users\kermo\source\repos\CulinaryApplication\CulinaryApplication\obj\Debug\netcoreapp2.0\CulinaryApplication.pdb
